@@ -9,7 +9,7 @@
     </TabbedPage.ToolbarItems>
 
     <TabbedPage.Children>
-        <local:LocationPage Icon="location.png" Title="LOCATION"/>
+        <local:LocationPage Icon="location.png" Title="RV's LOCATION"/>
         <local:MainPage Icon="today.png" Title="NOW"/>
     </TabbedPage.Children>
 
